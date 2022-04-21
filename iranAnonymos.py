@@ -23,7 +23,7 @@ os.system("pkg install python2 -y")
 os.system("pkg install python3 -y ")
 os.system("pkg install figlet -y ")
 os.system("clear")
-os.system("toilet -f mono12 -F gay DDOS")
+os.system("toilet -f mono12 -F gay hacker")
 
 print(" iran anonymos ")
 print(" my telegram id: @.... ")
